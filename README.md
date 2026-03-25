@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pregabalin-apps.github.io/.github/tinderbox">
+  <a href="https://sanpedro-apps.github.io/.github/tinderbox">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Get for Mac"/>
   </a>
 </p>
